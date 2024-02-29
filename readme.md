@@ -41,9 +41,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikpatelofficial&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" height="147" alt="stats graph"  />
+
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ritikpatelofficial&theme=transparent&hide_border=true" alt="GitHub Streak" /> </a>
+
+  
+  <br><img src="https://github-readme-stats.vercel.app/api?username=ritikpatelofficial&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" height="147" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikpatelofficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="147" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ritikpatelofficial&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3" height="270" alt="streak graph"  />
 </div>
 
 ###
