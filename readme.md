@@ -1,14 +1,25 @@
-<h1 align="center">Hi👋, I'm Ritik Patel</h1>
+<h1 align="center">Welcome to my GitHub, I'm Ritik Patel </h1>
 
 ###
+ <h1>
+    <h2>🎓 Final Year Computer Science Engineering Student</h2>
+    <h3>💡 Projects I've Developed:</h3>
+    <ul>
+        <li>🛒 <strong>Shopping Mart</strong></li>
+        <li>🎬 <strong>Movie Website</strong></li>
+    </ul>
+    <h3>📚 Currently Learning:</h3>
+    <ul>
+        <li>Data Structures and Algorithms</li>
+    </ul>
+    <h3>🌟 Interests:</h3>
+    <ul>
+        <li>Artificial Intelligence (AI)</li>
+        <li>Blockchain</li>
+        <li>Metaverse</li>
+    </ul>
+    <p>I'm passionate about coding and always eager to explore new technologies. Open to collaborating on exciting projects!</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🧑‍🎓 I’m pursuing Btech in Computer Science Branch<br><br>🔭 I’m currently working on E-commerce Website<br><br>🌱 I’m currently learning Data Structures and Algorithms</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
